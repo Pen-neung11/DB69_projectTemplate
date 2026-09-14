@@ -11,3 +11,4 @@ DB_USER = "s...."                     # TODO: username ของนิสิต
 DB_PASSWORD = "s....pwd"                 # TODO: password ของนิสิต
 DB_NAME = "prymania_s...."              # TODO: ชื่อฐานข้อมูลของนิสิต
 DB_PORT = 3306
+
