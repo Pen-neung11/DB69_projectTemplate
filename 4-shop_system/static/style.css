@@ -35,7 +35,7 @@ body{font-family:"Segoe UI",Tahoma,sans-serif;background:#EEF2F8;color:var(--ink
 .btn:hover{background:var(--tint)}
 .btn.primary{background:var(--navy);color:#fff;border-color:var(--navy)}
 .btn.primary:hover{background:var(--navy2)}
-.btn.add{margin-left:auto;background:var(--green);color:#fff;border-color:var(--green)}
+.btn.add{background:var(--green);color:#fff;border-color:var(--green)}
 .btn.del{color:var(--coral);border-color:#f3c4bf}
 .btn.sm{padding:5px 12px;font-size:12.5px}
 
